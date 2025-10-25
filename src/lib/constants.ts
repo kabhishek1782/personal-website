@@ -27,15 +27,15 @@ export const DEFAULT_CONFIGURATION: DefaultConfigurationType = {
   baseUrl: astroConfig.site || 'https://getcvfolio.com',
   author: {
     avatar,
-    name: 'Javier Diaz Chamorro',
-    headline: 'Engineering and Design',
-    username: 'coderdiaz',
-    location: 'Mexico City',
+    name: 'Kumar Abhishek',
+    headline: 'Finance',
+    username: 'kabhishek17',
+    location: 'United Kingdom',
     pronouns: 'He/Him',
   },
   seo: {
-    title: 'CV Folio — An Astro template inspired on Read.cv',
-    description: 'Clean and aesthetic portfolio website for developers and designers',
+    title: 'My personal website',
+    description: 'My personal website',
     type: 'website',
     image: MetaDefaultImage,
     twitter: {
